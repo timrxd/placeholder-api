@@ -2,7 +2,10 @@
 Basic Go API that serves placeholder data
 
 ## Run
-```./placeholder-api```
+```
+go build
+./placeholder-api
+```
 - hosted on localhost:8080
 
 ## Endpoints
