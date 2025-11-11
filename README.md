@@ -1,5 +1,5 @@
 # placeholder-api
-Basic Go API that serves placeholder data
+Basic Go API that serves placeholder data, using [mux](github.com/gorilla/mux)
 
 ## Run
 ```
