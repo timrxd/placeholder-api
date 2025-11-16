@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	log.Println("Starting server...")
+	log.Println("Initializing placeholder api on :8080...")
 
 	// Initialize router
 	server := api.CreateServer()
