@@ -8,7 +8,7 @@ go build
 ```
 - hosted on localhost:8080
 
-## Endpoints
+### Endpoints
 ```
  GET    /items
     - gets all items 
@@ -32,7 +32,7 @@ go build
 
  ```
 
- ## Item Spec
+ ### Item Spec
  ```
 Item {
     int id
